@@ -8,7 +8,7 @@
   <input type="text" ref="inputRef" />
   <Component_v5 :name="name" @getName="getName" />
   {{ count }}
-  <button @click="increment">button2</button>
+  <button @click="increment">button3</button>
   </template>
   
   <script>              
