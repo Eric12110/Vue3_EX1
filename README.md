@@ -1,3 +1,6 @@
+參考資料
+https://ithelp.ithome.com.tw/users/20162607/ironman/6461
+
 # vue-demo
 
 ## Project setup
